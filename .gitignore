@@ -1,5 +1,4 @@
 node_modules
 # Игнорируем все файлы psd
 *.psd
-*.svg
 package-lock.json
